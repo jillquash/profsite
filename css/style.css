@@ -1,0 +1,20 @@
+main {
+    width: 980px;
+    margin: 0 auto;
+}
+.column {
+    width: 300px;
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+}
+html {
+    background-color: bisque;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+    color: black;
+}
