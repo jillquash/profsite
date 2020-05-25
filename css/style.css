@@ -1,12 +1,12 @@
 main {
-    width: 980px;
+    width: 95%;
     margin: 0 auto;
 }
 .column {
-    width: 300px;
-    display: inline-block;
-    float: left;
-    margin-left: 20px;
+    width: 30%;
+    display: block;
+    float: center;
+    margin-left: 2%;
 }
 html {
     background-color: bisque;
@@ -17,4 +17,20 @@ body {
     font-size: medium;
     font-weight: normal;
     color: black;
+}
+h2 {
+     font-size: 30%;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+     font-size: 30%;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 200%;
+    margin: 0;
+    padding: 0;
 }
